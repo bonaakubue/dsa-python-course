@@ -23,7 +23,7 @@ cd algorithm-analysis
 ```
 
 ## Usage
-Run the Python scripts to analyze the performance of different algorithms:
+Run the Python script to count primitive operations in different algorithms
 
 ```sh
 python count_operation.py
